@@ -1,0 +1,10 @@
+/target
+Cargo.lock
+save.csv
+
+# intelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea
+out
